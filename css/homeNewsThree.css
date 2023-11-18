@@ -1,0 +1,84 @@
+.daohang {
+    width: 1200px;
+    height: 120px;
+    margin: 0 auto;
+}
+.daohang-pic {
+    width: 970px;
+    height: 50px;
+    margin: 35px auto;
+    background: url(../material/4.history/2、banner/biankuang.png) no-repeat;
+    line-height: 50px;
+    padding-left: 26px;
+}
+.daohang-pic a {
+    color: #000;
+}
+.daohang-pic a:nth-child(3) {
+    color: #cc3333;
+}
+.daohang-pic a:hover {
+    color: #cc3333;
+}
+.title {
+    width: 1000px;
+    height: 80px;
+    margin: -24px auto 0;
+    text-align: center;
+}
+.title p:nth-child(1) {
+    font-size: 30px;
+}
+.title p:nth-child(2) {
+    font-size: 18px;
+}
+.pic {
+    width: 640px;
+    height: 430px;
+    margin: 0 auto;
+}
+.pic img {
+    width: 100%;
+    height: 100%;
+}
+.name {
+    width: 1000px;
+    height: 40px;
+    margin: 0 auto;
+    padding-left: 180px;
+    line-height: 40px;
+}
+.content {
+    width: 1000px;
+    margin: 0 auto;
+    font-size: 22px;
+    line-height: 36px;
+}
+.content p:nth-child(1) {
+    margin-top: 90px;
+    margin-bottom: 40px;
+}
+.content p:nth-child(3) {
+    margin: 40px auto;
+}
+.content p:nth-child(5) {
+    margin: 40px auto;
+}
+.content p:nth-child(7) {
+    margin: 40px auto;
+}
+.content p:nth-child(9) {
+    margin: 40px auto;
+}
+.content p:nth-child(11) {
+    margin: 40px auto;
+}
+.content p:nth-child(13) {
+    margin: 40px auto;
+}
+.content p:nth-child(15) {
+    margin: 40px auto;
+}
+.content p:nth-child(17) {
+    margin: 40px auto 60px;
+}
